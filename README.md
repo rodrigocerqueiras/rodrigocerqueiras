@@ -4,7 +4,8 @@
 - 🌱 Hoje estou estudando JavaScript
 - 💬 Email de Contato: rodrigo.santos2@ftc.edu.br ...
 - 📫 
-- 😄 
+- 😄 Bacharelando em Sistemas de informação
+
 
 
 <div align="center">
