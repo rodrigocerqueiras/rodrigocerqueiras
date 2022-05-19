@@ -21,3 +21,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
   
+![Snake animation](https://github.com/rodrigocerqueiras/rodrigocerqueiras/blob/output/github-contribution-grid-snake.svg)
